@@ -72130,7 +72130,7 @@ function setupViewer() {
           _a.sent();
           // This must be called once after all plugins are added.
           viewer.renderer.refreshPipeline();
-          return [4 /*yield*/, manager.addFromPath("./assets/blueoval.glb")
+          return [4 /*yield*/, manager.addFromPath("./assets/solitaires.glb")
           // Load an environment map if not set in the glb file
           // await viewer.scene.setEnvironment(
           //     await manager.importer!.importSinglePath<ITexture>(
