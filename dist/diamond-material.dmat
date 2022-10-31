@@ -1,0 +1,29 @@
+{
+  "name": "diamond",
+  "uuid": "5bbe92d8-d4da-4421-8283-27202dd25d64",
+  "color": 16580607,
+  "envMapIntensity": 1.59,
+  "dispersion": 0.023200000000000002,
+  "squashFactor": 0.98,
+  "geometryFactor": 0.5,
+  "gammaFactor": 1,
+  "absorptionFactor": 2.5100000000000002,
+  "reflectivity": 0,
+  "refractiveIndex": 2.65,
+  "rayBounces": 5,
+  "diamondOrientedEnvMap": 0,
+  "boostFactors": {
+    "x": 0.892,
+    "y": 0.892,
+    "z": 0.98595025,
+    "isVector3": true
+  },
+  "transmission": 0,
+  "isDiamondMaterialParameters": true,
+  "type": "DiamondMaterial",
+  "userData": {
+    "separateEnvMapIntensity": true,
+    "_baseMaterial": "5bbe92d8-d4da-4421-8283-27202dd25d64",
+    "uuid": "5bbe92d8-d4da-4421-8283-27202dd25d64"
+  }
+}
