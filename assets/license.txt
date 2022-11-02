@@ -1,0 +1,11 @@
+Model Information:
+* title:	Engagment ring
+* source:	https://sketchfab.com/3d-models/engagment-ring-2a29ba394c9f49f9a2158d7def7603f3
+* author:	gheopardo (https://sketchfab.com/gheopardo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Engagment ring" (https://sketchfab.com/3d-models/engagment-ring-2a29ba394c9f49f9a2158d7def7603f3) by gheopardo (https://sketchfab.com/gheopardo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
