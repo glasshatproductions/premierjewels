@@ -63,7 +63,7 @@ async function setupViewer(){
     // This must be called once after all plugins are added.
     viewer.renderer.refreshPipeline()
 
-    await manager.addFromPath("./assets/em.glb")
+    await manager.addFromPath("./assets/solitaires.glb")
 
     // Load an environment map if not set in the glb file
     // await viewer.scene.setEnvironment(
